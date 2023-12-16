@@ -1,4 +1,4 @@
-# Softcript: calculadora de Hash de Diretório
+# Softcript: calculadora de Hash
 
 Este é um aplicativo Python simples que calcula o hash SHA-256 de todos os arquivos em um diretório selecionado.
 
